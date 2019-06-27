@@ -11,4 +11,6 @@ int				li_parse(t_lemin *lemin);
 
 int				li_solve(t_lemin *lemin);
 
+int				li_print(t_lemin *lemin);
+
 #endif
